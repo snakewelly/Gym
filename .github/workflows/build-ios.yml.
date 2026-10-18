@@ -1,4 +1,4 @@
-# Create this file as .github/workflows/build-ios.yml in any GitHub repository you own.
+# Create this file as .github/workflows/build-ios.yml. in any GitHub repository you own.
 # The job checks out the pinned public upstream source and applies the included port.
 name: Build openGym IPA
 on:
